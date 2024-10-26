@@ -3,7 +3,7 @@
 
 
 🌱 **Learning**: AI  
-💼 **Current Projects**: AI-based security tools  
+💼 **Current Projects**: Generative Ai tools
 💡 **Interests**: Machine Learning, Generative Ai, Open-source contributions  
 
 ## 📫 Connect with me:
